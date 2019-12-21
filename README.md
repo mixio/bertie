@@ -1,1 +1,1 @@
-Bertie erlang project
+Bertie erlang project from Joe Armstrong book.

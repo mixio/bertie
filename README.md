@@ -1,1 +1,1 @@
-Bertie
+Bertie erlang project
